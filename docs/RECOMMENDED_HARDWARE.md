@@ -31,13 +31,13 @@ We recommend the **Zero 2W** because it’s small, efficient, and can handle one
 
 **Option (easy)**  
 Use the included acrylic mount for the camera and a separate Pi case:
-- [MakerFocus Adjustable Focus Camera + Acrylic Mount](https://www.amazon.com/MakerFocus-Raspberry-Camera-Adjustable-Focus-Fisheye/dp/B07BK1QZ2L)  
+- [Night Vision Adjustable Focus Camera + Acrylic Mount](https://www.amazon.com/MakerFocus-Raspberry-Camera-Adjustable-Focus-Fisheye/dp/B07BK1QZ2L)  
 - [iUniker Raspberry Pi Acrylic Case](https://www.amazon.com/iUniker-Raspberry-Starter-Acrylic-Clear/dp/B075FLGWJL/)
 
 **Option (advanced)**  
 Use a 3D-printed case that holds both the Pi and the night-vision camera:
-- [3D printed case design](https://gmail784811.autodesk360.com/g/shares/SH56a43QTfd62c1cd9681e75e6af7b61dce3)
-- [Night Vision Camera Without Mount]( https://www.amazon.com/MELIFE-Raspberry-Camera-Adjustable-Focus-Infrared/dp/B08RHZ5BJM/)
+- [3D Printed Case design](https://gmail784811.autodesk360.com/g/shares/SH56a43QTfd62c1cd9681e75e6af7b61dce3) 
+- [Night Vision Adjustable Focus Camera Without Mount]( https://www.amazon.com/MELIFE-Raspberry-Camera-Adjustable-Focus-Infrared/dp/B08RHZ5BJM/)
 
 If you have another night vision camera or prefer to buy a different option, it most likely will work. These are just recommendations.
 
