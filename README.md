@@ -2,6 +2,8 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Note to Secluso users: This documentation is still in early development. The only thing that is done is the markdown files within the docs/ folder.
+
 ## Installation
 
 ```bash
